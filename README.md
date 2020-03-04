@@ -8,3 +8,5 @@ How to use:
 - create list of menu elements and link every element to a functions
 - create menu object with list of menu elements
 - run the menu (menu m({...}); m.run();)
+
+Have fun ._.
